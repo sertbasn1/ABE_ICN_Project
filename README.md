@@ -1,5 +1,8 @@
 # ABE_ICN_Project
 
+Before use the scripts you should install followings
+
+
 CCN-lite for Unix
 https://github.com/cn-uofbasel/ccn-lite.git]
 
@@ -17,8 +20,8 @@ OS X: brew install openssl
 Ciphertext-Policy Attribute-Based Encryption
 [http://hms.isi.jhu.edu/acsc/cpabe/index.html]
 
-•	Downloand cpabe-0.11.tar.gz, libbswabe-0.9.tar.gz packages 
-•	Untar,  compile, and install as following
+	Downloand cpabe-0.11.tar.gz, libbswabe-0.9.tar.gz packages 
+	Untar,  compile, and install as following
     ./configure
     make
     make install
