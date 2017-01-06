@@ -1,4 +1,5 @@
 #!/bin/bash
+
 interest=$1
 #Ex: "/ndn/test/mycontent"
 name=$2
@@ -18,6 +19,7 @@ cachepath=$p1$path$p2
 $CCNL_HOME/bin/ccn-lite-fetch -s ndn2013 -u 127.0.0.1/9996 $interest >$cachepath
 
 
+
 echo Requested object is found on cache and saved into $cachepath file
 echo --- --- --- ---
 
@@ -29,5 +31,9 @@ echo User $name is trying to decrypt the object using $client
 cpabe-dec pub_key $client $cachepath
 
 
-echo --- --- --- ---
-echo Check the $pwd to see file
+p1=received
+p2=.txt
+cachepath2=$p1$path$p2
+
+
+open -a TextEdit $cachepath2

@@ -1,0 +1,28 @@
+results from sensor a
+        mark         | zone | number | state | level | source  |    info    
+---------------------+------+--------+-------+-------+---------+------------
+ 2004-07-11 00:00:00 | S    |     77 |     1 |    21 | ArgusMS | inhabitant
+ 2004-07-11 00:00:00 | S    |     17 |     1 |    28 | ArgusMS | inhabitant
+ 2004-07-11 00:00:00 | S    |     77 |     1 |    17 | ArgusMS | inhabitant
+ 2004-07-11 00:00:00 | S    |     17 |     1 |    50 | ArgusMS | inhabitant
+ 2004-07-11 00:00:01 | S    |     77 |     1 |    21 | ArgusMS | inhabitant
+ 2004-07-11 00:00:01 | S    |     77 |     1 |    16 | ArgusMS | inhabitant
+ 2004-07-11 00:00:01 | S    |     79 |     1 |   111 | ArgusMS | inhabitant
+ 2004-07-11 00:00:01 | S    |     79 |     1 |   104 | ArgusMS | inhabitant
+ 2004-07-11 00:00:02 | S    |     77 |     1 |    20 | ArgusMS | inhabitant
+ 2004-07-11 00:00:02 | S    |     14 |     1 |    11 | ArgusMS | inhabitant
+ 2004-07-11 00:00:02 | S    |     77 |     1 |    14 | ArgusMS | inhabitant
+ 2004-07-11 00:00:02 | S    |     79 |     1 |   110 | ArgusMS | inhabitant
+ 2004-07-11 00:00:02 | S    |     14 |     1 |     7 | ArgusMS | inhabitant
+ 2004-07-11 00:00:02 | S    |     17 |     1 |    31 | ArgusMS | inhabitant
+ 2004-07-11 00:00:03 | S    |     17 |     1 |    51 | ArgusMS | inhabitant
+ 2004-07-11 00:00:03 | S    |     17 |     1 |    44 | ArgusMS | inhabitant
+ 2004-07-11 00:00:03 | S    |     77 |     1 |    20 | ArgusMS | inhabitant
+ 2004-07-11 00:00:03 | S    |     79 |     1 |   110 | ArgusMS | inhabitant
+ 2004-07-11 00:00:03 | S    |     17 |     1 |    35 | ArgusMS | inhabitant
+ 2004-07-11 00:00:03 | S    |     77 |     1 |    13 | ArgusMS | inhabitant
+ 2004-07-11 00:00:03 | S    |     79 |     1 |   105 | ArgusMS | inhabitant
+ 2004-07-11 00:00:03 | S    |     83 |     1 |    14 | ArgusMS | inhabitant
+ 2004-07-11 00:00:03 | S    |     17 |     1 |    44 | ArgusMS | inhabitant
+ 2004-07-11 00:00:04 | S    |     77 |     1 |    20 | ArgusMS | inhabitant
+ 2004-07-11 00:00:04 | S    |     17 |     1 |    39 | ArgusMS | inhabitant

@@ -13,8 +13,9 @@ echo public and master keys are generated
 fi
 
 
-cpabe-enc pub_key $file 'a or b'
+cpabe-enc pub_key $file '((MemofPrA and engineer) or (boss))'
 
+#cpabe-enc pub_key $file '((MemofPrB and engineer) or (boss))'
 
 
 
